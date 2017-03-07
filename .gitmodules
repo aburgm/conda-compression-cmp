@@ -1,0 +1,9 @@
+[submodule "zstd"]
+	path = zstd
+	url = ../facebook/zstd.git
+[submodule "brotli"]
+	path = brotli
+	url = ../google/brotli.git
+[submodule "zopfli"]
+	path = zopfli
+	url = ../google/zopfli.git
